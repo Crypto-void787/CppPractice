@@ -56,3 +56,9 @@ nhi nhii abhi sirf locally hai github par push krni hhai
 ab hmm remote repo add karin gy jo hm ny create ki github par okay?
 
 ok 
+
+okay our code is now added to github 
+
+ok but our talkin r too there
+
+kuch nhi hota :)  qq 
