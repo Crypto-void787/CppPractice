@@ -2,43 +2,40 @@
 using namespace std;
 int main(){
 
-    
-    
     int age; 
-    cout<<"Enter your age: "<<endl;
-    cin>>age;
-    // if((age<18)&&(age<0)){
+    cout << "Enter your age: "<<endl;
+    cin >>age;
+    if((age<18)&&(age<0)){
         
-    //     cout<<"you can not come to party "<<endl;
+        cout<<"you can not come to party "<<endl;
+    }
+    else if (age==18){
+            cout<<"you r kid n u'll get kid pass"<<endl;
+       }
 
-    // }
-    // else if (age==18){
-    //         cout<<"you r kid n u'll get kid pass"<<endl;
-    //    }
-
-    // else if (age=0 ){
-    //     cout<<"Hey ! enjoy baby"<<endl;
+    else if (age=0 ){
+        cout<<"Hey ! enjoy baby"<<endl;
     
-    // }
+    }
     
 
-    // else{
-    //     cout<<"you can go dude!"<<endl;
+    else{
+        cout<<"you can go dude!"<<endl;
 
-    // }
+    }
     
-    // char name;
-    //     cout<<"Please enter ur number "<<endl;
-    //     cin>>name; 
-    //     if(name!=0){
-    //         cout<<"U r kid u r not alllowed . . . .. "<<endl;
-    //     }
-    //     else if (name==0){
-    //         cout<<"Hey dude!! U can come . . . .. "<<endl;
-    //     }
-    //     else if (name=0){
-    //         cout<<"you r not born yet baby "<<endl;
-    //     }
+    char name;
+        cout<<"Please enter ur number "<<endl;
+        cin>>name; 
+        if(name!=0){
+            cout<<"U r kid u r not alllowed . . . .. "<<endl;
+        }
+        else if (name==0){
+            cout<<"Hey dude!! U can come . . . .. "<<endl;
+        }
+        else if (name=0){
+            cout<<"you r not born yet baby "<<endl;
+        }
        
 
 
