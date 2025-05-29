@@ -28,6 +28,7 @@ int main(){
     cout<< "Enter value of number: " << endl ;
     cin>> number_2; 
     while(number_2 != 15 ){
+      cout<<" Post incerement value of number is: " << endl; 
         cout<< " SO # is " << number_2++ <<endl ; 
         // gives a post inrecment 
       // continue;  it make it infinite if condition dont met so number'll put break to run it only once
